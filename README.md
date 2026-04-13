@@ -21,3 +21,8 @@ Para ejecutar este proyecto, es necesario contar con las siguientes herramientas
 
 ## 4. Instrucciones de Instalación
 Siga estos pasos para configurar el entorno local:
+
+1. **Clonar el repositorio:**
+   ```bash
+   https://github.com/tedementall/motor-notificaciones-red-social
+   
